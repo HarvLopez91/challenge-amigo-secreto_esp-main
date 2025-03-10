@@ -53,4 +53,3 @@ function sortearAmigo() {
     // Mostrar el resultado en la página
     document.getElementById("resultado").innerHTML = `🎉 Amigo sorteado: <strong>${amigoSorteado}</strong>!`;
 }
-    

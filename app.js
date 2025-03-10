@@ -24,7 +24,7 @@ function agregarAmigo() {
 
 function actualizarLista() {
     // Obtener el elemento de la lista
-    let lista = document.getElementById("resultado");
+    let lista = document.getElementById("listaAmigos");
 
     // Limpiar la lista existente
     lista.innerHTML = "";
